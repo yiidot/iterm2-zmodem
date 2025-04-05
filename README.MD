@@ -14,7 +14,7 @@
 3.设置一下两个脚本的权限，一般 chmod 777 就行了
 
 ```bash
-chmod +x /usr/local/bin/iterm2-*
+chmod  +x  ~/bin/iterm2-send-zmodem.sh  ~/bin/iterm2-recv-zmodem.sh
 ```
 
 4.设置Iterm2的Tirgger特性，Settings->Profiles->Advanced中的Tirgger
